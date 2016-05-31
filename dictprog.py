@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 04 13:38:55 2016
 
-@author: Maharnab
+@author: rNov
 
 Dictionary Program
 """
