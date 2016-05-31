@@ -2,7 +2,9 @@
 """
 Created on Sat Apr 30 02:23:53 2016
 
-@author: Maharnab
+@author: rNov
+
+Erica's game challenge on HackerRank
 """
 
 n, d = map(int,raw_input().strip().split(' '))
