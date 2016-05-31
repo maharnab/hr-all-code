@@ -2,7 +2,9 @@
 """
 Created on Sun May 01 21:42:52 2016
 
-@author: Maharnab
+@author: rNov
+
+Matrix diagonal operations program
 """
 
 n = int(raw_input().strip())
