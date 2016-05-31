@@ -2,7 +2,9 @@
 """
 Created on Mon Apr 04 22:58:47 2016
 
-@author: Maharnab
+@author: rNov
+
+Numpy List Program
 """
 
 import numpy as np
