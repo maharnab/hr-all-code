@@ -2,7 +2,9 @@
 """
 Created on Fri Apr 29 21:38:00 2016
 
-@author: Maharnab
+@author: rNov
+
+Emma's game challenge from HackerRank
 """
 
 import sys
