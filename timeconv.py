@@ -2,7 +2,9 @@
 """
 Created on Fri May 06 23:50:05 2016
 
-@author: Maharnab
+@author: rNov
+
+hh:mm:ss conv. from 12h to 24h format 
 """
 
 import sys
