@@ -2,7 +2,9 @@
 """
 Created on Mon Apr 04 17:29:52 2016
 
-@author: Maharnab
+@author: rNov
+
+Simple list program
 """
 
 L = []
