@@ -2,7 +2,9 @@
 """
 Created on Tue Apr 05 00:23:49 2016
 
-@author: Maharnab
+@author: rNov
+
+Reshaping Numpy array program
 """
 
 import numpy as np
