@@ -2,7 +2,9 @@
 """
 Created on Tue Apr 05 20:39:11 2016
 
-@author: Maharnab
+@author: rNov
+
+Numpy Transpose & flatten operation program
 """
 
 import numpy as np
